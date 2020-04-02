@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediatorPatternExample", "MediatorPatternExample.csproj", "{2845C7ED-D03A-41D9-BFA7-F66E2BFB1634}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediatR", "..\MediatR\MediatR.csproj", "{0A5B3C2A-8927-48CF-B4DF-8A9B77213935}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediatR.Extensions.Microsoft.DependencyInjection", "..\MediatR.Extensions.Microsoft.DependencyInjection\MediatR.Extensions.Microsoft.DependencyInjection.csproj", "{445DF25D-23AB-40AC-AF71-57D01F284C8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DebugWithProjects|Any CPU = DebugWithProjects|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2845C7ED-D03A-41D9-BFA7-F66E2BFB1634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2845C7ED-D03A-41D9-BFA7-F66E2BFB1634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2845C7ED-D03A-41D9-BFA7-F66E2BFB1634}.DebugWithProjects|Any CPU.ActiveCfg = DebugWithProjects|Any CPU
+		{2845C7ED-D03A-41D9-BFA7-F66E2BFB1634}.DebugWithProjects|Any CPU.Build.0 = DebugWithProjects|Any CPU
+		{2845C7ED-D03A-41D9-BFA7-F66E2BFB1634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2845C7ED-D03A-41D9-BFA7-F66E2BFB1634}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A5B3C2A-8927-48CF-B4DF-8A9B77213935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A5B3C2A-8927-48CF-B4DF-8A9B77213935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A5B3C2A-8927-48CF-B4DF-8A9B77213935}.DebugWithProjects|Any CPU.ActiveCfg = DebugWithProjects|Any CPU
+		{0A5B3C2A-8927-48CF-B4DF-8A9B77213935}.DebugWithProjects|Any CPU.Build.0 = DebugWithProjects|Any CPU
+		{0A5B3C2A-8927-48CF-B4DF-8A9B77213935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A5B3C2A-8927-48CF-B4DF-8A9B77213935}.Release|Any CPU.Build.0 = Release|Any CPU
+		{445DF25D-23AB-40AC-AF71-57D01F284C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{445DF25D-23AB-40AC-AF71-57D01F284C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{445DF25D-23AB-40AC-AF71-57D01F284C8D}.DebugWithProjects|Any CPU.ActiveCfg = DebugWithProjects|Any CPU
+		{445DF25D-23AB-40AC-AF71-57D01F284C8D}.DebugWithProjects|Any CPU.Build.0 = DebugWithProjects|Any CPU
+		{445DF25D-23AB-40AC-AF71-57D01F284C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{445DF25D-23AB-40AC-AF71-57D01F284C8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F80779B-C31A-4C06-B51E-67094B2BA678}
+	EndGlobalSection
+EndGlobal
